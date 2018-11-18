@@ -6,6 +6,7 @@
 - [angularjs-tutorial](http://www.runoob.com/angularjs/angularjs-tutorial.html)
 - [AngularJS中文网](http://www.angularjs.net.cn/)
 
+- [angular-ui](https://angular-ui.github.io/)
 
 
 
