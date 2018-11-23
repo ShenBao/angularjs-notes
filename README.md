@@ -8,20 +8,13 @@
 
 
 - [AngularjsTutorial_cn](https://github.com/zensh/AngularjsTutorial_cn)
-
--[AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
-
+- [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 - [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-
 - [awesome-angularjs](https://github.com/gianarb/awesome-angularjs)
-
 - [angular-ui](https://angular-ui.github.io/)
-
 
 - [ui-router](https://github.com/angular-ui/ui-router)
 
-
 - [angularjs](https://github.com/AngularLovers/angularjs)
-
 
 
