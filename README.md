@@ -18,3 +18,8 @@
 - [angularjs](https://github.com/AngularLovers/angularjs)
 
 
+## book
+
+- 《angularjs权威指南》
+- 《用AngularJS开发下一代Web应用》
+- [《AngularJS入门教程》](http://www.ituring.com.cn/book/1206)[免费在线]
