@@ -16,12 +16,11 @@
 - [ui-router](https://github.com/angular-ui/ui-router)
 
 - [angularjs](https://github.com/AngularLovers/angularjs)
-- [AngularJS 技术总结](https://www.cnblogs.com/xing901022/p/4931455.html)
-- [AngularJS学习笔记](https://www.zouyesheng.com/angular.html)
-- [AngularJs笔记](http://www.cnblogs.com/ys-ys/tag/AngularJs%20Api/)
-
 - [AngularJs](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
-- [AngularJs学习笔记--Guide教程系列文章索引](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
+- [AngularJs 笔记](http://www.cnblogs.com/ys-ys/tag/AngularJs%20Api/)
+- [AngularJS 学习笔记](https://www.zouyesheng.com/angular.html)
+- [AngularJS 技术总结](https://www.cnblogs.com/xing901022/p/4931455.html)
+- [AngularJs 学习笔记--Guide教程系列文章索引](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
 
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 - [AngularJS资源](http://www.iteye.com/news/28651-AngularJS-Google-resource)
