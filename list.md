@@ -16,4 +16,8 @@ Provider
 filter
 过滤器
 事件处理器
+多语言
+
+模块化
+数据mock
 
