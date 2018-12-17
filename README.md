@@ -1,6 +1,6 @@
 # angularjs-notes
 
-`注意：版本为1.x (由于最近在维护一个老项目)`
+`注意：版本为1.x`
 
 - [angularjs](https://angularjs.org/)
 - [angularjs-tutorial](http://www.runoob.com/angularjs/angularjs-tutorial.html)
@@ -24,7 +24,6 @@
 
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 - [AngularJS资源](http://www.iteye.com/news/28651-AngularJS-Google-resource)
-
 
 ## book
 
